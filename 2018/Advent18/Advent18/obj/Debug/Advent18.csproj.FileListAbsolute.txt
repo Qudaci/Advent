@@ -1,0 +1,7 @@
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\bin\Debug\Advent18.exe.config
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\bin\Debug\Advent18.exe
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\bin\Debug\Advent18.pdb
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\obj\Debug\Advent18.csprojAssemblyReference.cache
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\obj\Debug\Advent18.csproj.CoreCompileInputs.cache
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\obj\Debug\Advent18.exe
+D:\go\src\github.com\Qudaci\Advent\2018\Advent18\Advent18\obj\Debug\Advent18.pdb
